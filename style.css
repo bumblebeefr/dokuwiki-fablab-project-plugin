@@ -1,0 +1,57 @@
+
+.projectBox  {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: 1px solid #CCCCCC;
+    color: inherit;
+    margin: -1.556em -2em 0.5em 1.4em;
+    width: 26em;
+    float: right;
+}
+
+.projectBox ul li {
+	line-height: 1.1;
+}
+.projectBox ul li li{
+	margin-left:0px!important;
+}
+.projectBox ul li div.li {
+    padding: 0.2em 0;
+    margin-left:0;
+}
+.projectBox ul {
+    padding: 0 0 0 1.2em;
+    margin: 0;
+}
+.projectBox ul ul {
+    padding-left: 1em;
+}
+.projectBox h3{
+	margin:0 0 0.2em 0!important;
+}
+.plugin_include_content .projectBox{
+	display:none;
+}
+.projectBox li>p{
+	display:inline;
+}
+
+.projectBoxPicture img{
+ max-height:200px;
+ width:auto;
+}
+a.projectBoxPicture{
+	float:left;
+	margin: 0 1em 0.5em 0;
+}
+a.projectBoxPicture.odd{
+	float:right;
+	margin: 0 0 0.5em 1em;
+}
+
+
+.inlinetoc2>li {
+	margin: 0 1.5em!important;
+}
+#projectBox>div>ul{
+  font-size:0.9em;
+}

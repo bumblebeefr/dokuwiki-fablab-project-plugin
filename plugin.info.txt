@@ -1,0 +1,7 @@
+base   fablab
+author Bumblebee
+email  
+date   2013-01-31
+name   fablab plugin
+desc   Plugin used to describe a Fablab project.
+url    https://github.com/bumblebeefr/dokuwiki-fablab-project-plugin
