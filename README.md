@@ -7,3 +7,9 @@ Some other plugins works well this plugin such as :
 
 
 More details for using this plugin (in french) [here](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=aide:documenter#fiche_projet)
+
+
+##TODO LIST
+* Add a GUI to help people completing the project metadata, especialy proposing machines, tags, materials etc...
+* Show some logos for licences etc...
+* ...
